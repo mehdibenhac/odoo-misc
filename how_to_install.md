@@ -3,8 +3,8 @@
 > Copied and modified from: [Odoo 11 Windows Installation](https://github.com/kasim1011/odoo-11.0-windows-installation/blob/master/README.md)
 
 ----------
-## Odoo 11.0 Windows Installation
-Install odoo-11.0 from source on Windows
+## Odoo Windows Installation
+Install from source on Windows
 
 It is recommended to have 64 bit version of operating system installed on your system.<br />
 It is recommended to install 64 bit version of all software packages mentioned in installation process.<br />
